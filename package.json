@@ -1,0 +1,14 @@
+{
+  "name": "lab02",
+  "version": "1.0.0",
+  "description": "example for week2 of node js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mandeep kaur",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
+}
